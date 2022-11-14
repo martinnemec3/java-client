@@ -3,7 +3,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
-public class Connector {
+public class CLIent {
 
     public static void main(String[] args) throws Exception {
         if (args.length < 1) {
