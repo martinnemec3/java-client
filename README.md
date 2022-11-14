@@ -1,4 +1,4 @@
-# java-curl
+# CLIent
 A super-simple http client written in java for testing purposes.
 
 ## Background
@@ -14,9 +14,9 @@ docker run it --rm eclipse-temurin:11-jdk /bin/bash
 
 #### Execute
 ```
-wget https://raw.githubusercontent.com/martinnemec3/java-curl/main/Connector.java
+wget https://raw.githubusercontent.com/martinnemec3/java-curl/main/CLIent.java
 
-javac Connector.java
+javac CLIent.java
 
-java Connector <url>
+java CLIent <url>
 ```
